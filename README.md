@@ -66,7 +66,7 @@ Kotlin also introduces a concept known as “coroutines” which is a unique, cu
 
 After diving deeper into these exciting technologies in the world of robotics, I challenged myself to create my own unique project. The project I chose was a robot built with an Arduino that would be controlled by my smartphone. I decided that I would set up an application flow that would work as follows:
 
-[https://user-content.gitlab-static.net/142fbaa1ee236abef0637e814d2f7e20a681711f/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323436322f312a695a395359465555305668794c6a7038536950316b772e706e67](https://user-content.gitlab-static.net/142fbaa1ee236abef0637e814d2f7e20a681711f/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323436322f312a695a395359465555305668794c6a7038536950316b772e706e67)
+![Diagram of data flow](https://user-content.gitlab-static.net/142fbaa1ee236abef0637e814d2f7e20a681711f/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323436322f312a695a395359465555305668794c6a7038536950316b772e706e67)
 
 This was what I determined would be the most effective way of accomplishing the final product I wanted.
 
@@ -76,15 +76,15 @@ This was what I determined would be the most effective way of accomplishing the 
 
 I built the robot using some spare metal parts, a breadboard, a battery case, the HC-05 module, two motors, and of course an Arduino. I was very pleased with the final result.
 
-[https://user-content.gitlab-static.net/b862e09bc5293fadf8bddf72f5430102d9c2170a/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f383036342f312a4b496e496c4a796b396a564855676163725f784b53412e6a706567](https://user-content.gitlab-static.net/b862e09bc5293fadf8bddf72f5430102d9c2170a/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f383036342f312a4b496e496c4a796b396a564855676163725f784b53412e6a706567)
+![Final robot](https://user-content.gitlab-static.net/b862e09bc5293fadf8bddf72f5430102d9c2170a/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f383036342f312a4b496e496c4a796b396a564855676163725f784b53412e6a706567)
 
 Featuring a 3d printed mascot.
 
-[https://user-content.gitlab-static.net/10bb29eb12e4f1cdfca67d59a9aea382547ee203/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f383036342f312a4871536e7645464f613754714d636d566a4634476e772e6a706567](https://user-content.gitlab-static.net/10bb29eb12e4f1cdfca67d59a9aea382547ee203/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f383036342f312a4871536e7645464f613754714d636d566a4634476e772e6a706567)
+![Mascot](https://user-content.gitlab-static.net/10bb29eb12e4f1cdfca67d59a9aea382547ee203/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f383036342f312a4871536e7645464f613754714d636d566a4634476e772e6a706567)
 
 ## Front-end app
 
-[https://user-content.gitlab-static.net/aff8ca2fbf8a377c35fa8047ab1723e027267266/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313732382f312a636433685a314f444b6e6a5574495f776976764879412e706e67](https://user-content.gitlab-static.net/aff8ca2fbf8a377c35fa8047ab1723e027267266/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313732382f312a636433685a314f444b6e6a5574495f776976764879412e706e67)
+![Screenshot of app](https://user-content.gitlab-static.net/aff8ca2fbf8a377c35fa8047ab1723e027267266/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313732382f312a636433685a314f444b6e6a5574495f776976764879412e706e67)
 
 For the front-end app that would control the robot, I wanted to use the phone’s gyroscope to control the robot. This would mean that when you tilt the phone, the robot would move in that direction. It’s a little gimmicky, but in the end, it was very fun to play around with.
 
