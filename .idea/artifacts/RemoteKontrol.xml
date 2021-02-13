@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RemoteKontrol">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="RemoteKontrol.jar">
+      <element id="module-output" name="RemoteKontrol.main" />
+    </root>
+  </artifact>
+</component>
