@@ -1,6 +1,6 @@
 # Innovating at Home with Emerging Robotics Technologies
 
-*[Read this story on Medium](https://medium.com/swlh/robotics-technologies-26cbe49cb866) or [on my blog](https://colegaw.in/blog/8ff11861-4c7e-4ba1-9b6b-f2ed32303a23)*
+*[Read this story on my blog](https://blog.colegaw.in/visualizing-algorithm-runtimes-in-python-ckplcwv2u0kjsz0s1fr44581g)*
 
 While stuck indoors during these past few months, I have had a lot more time on my hands, something which presumably is very common around the world.
 
